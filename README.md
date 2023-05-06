@@ -1,2 +1,3 @@
-# all-projects-directory
-List of all my GitHub projects
+# Projects Directory
+#### Collection of all projects 
+
