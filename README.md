@@ -14,3 +14,4 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## S <a id="s"></a>
 - <a href="https://github.com/Parth3716/sumz-jsm">Sumz<a/> - Javascript Mastery Project for AI Summarizing of Articles build using Vite, React, TailwindCSS and RapidAPI.
+- <a href="https://github.com/Parth3716/sumz-jsm">Sushiman<a/> - Javascript Mastery Project for Sushi Resturant Landing Page build using Vite, HTML, TailwindCSS and AOS-Animations.
