@@ -7,7 +7,6 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## 0-9 <a id="0"></a>
 ## A <a id="a"></a>
-- <a href="https://github.com/Parth3716/anime-vault-jsm">Anime Vault (JavascriptMastery)<a/> - Anime Vault WebApp made with Next.JS, Typescript, Tailwind CSS and JavaScript Mastery YouTube Channel.
 ## B <a id="b"></a>
 ## C <a id="c"></a>
 ## D <a id="d"></a>
